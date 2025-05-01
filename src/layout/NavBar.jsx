@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar(){
     return (
         <div>
-            <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-success color-white">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">Cad Springboot and React</a>
                     <button 
